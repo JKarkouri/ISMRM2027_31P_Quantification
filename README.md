@@ -19,7 +19,7 @@ The same 7T ³¹P brain spectra (simulated with known truth, and in vivo from 3D
 ## Requirements
 
 - **MATLAB** with the Optimization Toolbox
-- **LCModel**
+- **LCModel (".exe")**
 - **OXSA** (for AMARES)
 - **FSL-MRS** (Python)
 
@@ -46,10 +46,7 @@ The in vivo data (7T Siemens Terra.X, frontal cortex, 8×8×8 3D UTE-CSI) are no
 - **tNAD** (NAD⁺ + NADH) is the robust outcome, and NAD⁺/tNAD is a bounded alternative to NAD⁺/NADH.
 - NAD⁺/NADH is reported only from averaged spectra.
 
-## Citation
-
-If you use this code, please cite the abstract above (Proc. ISMRM 2027, submitted), as well as OXSA, LCModel and FSL-MRS.
 
 ## Contact
 
-Jabrane Karkouri, CIBM Center for Biomedical Imaging, EPFL. Please open an issue on this repository.
+Jabrane Karkouri, CIBM Center for Biomedical Imaging, EPFL. jabrane.karkouri@epfl.ch
